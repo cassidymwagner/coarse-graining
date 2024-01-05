@@ -1,0 +1,15 @@
+pycallgraph.png
+.swp
+.DS_Store
+cprof.out
+.prof
+out.profile
+mitgcm_profiling.prof
+mitgcm_profiling_fft.prof
+.pyc
+.png
+.pickle
+
+__pycache__/
+figs/
+sfs_pickles/
